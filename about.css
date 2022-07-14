@@ -1,0 +1,42 @@
+.aboutContainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10rem auto;
+}
+
+.aboutText{
+    margin: 0 2rem;
+}
+
+.aboutText p{
+    font-size: 2rem;
+}
+.aboutText h1{
+    font-size: 3rem;
+}
+
+.aboutImg{
+    margin: 0 2rem;
+}
+.aboutText button{
+    width: 13rem;
+    height: 4rem;
+    border-radius: 5px;
+    font-size: 1.8rem;
+}
+
+.text_clr{
+    color: rgb(14, 13, 17);
+}
+
+.navitems{
+    text-decoration: none;
+    color: white;
+}
+
+.navbar ul{
+    position: sticky;
+    top: 0;
+    width: 100vw;
+}
